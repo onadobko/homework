@@ -8,6 +8,7 @@
   <modules>
     <module>ygrkoval</module>
     <module>onadobko</module>
+    <module>yurbulax</module>
   </modules>
   <packaging>pom</packaging>
 
