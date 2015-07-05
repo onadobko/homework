@@ -1,7 +1,6 @@
 package ua.com.javaschool.homework.oop.lesson01.task06;
-/**
- * Created by ������ on 02.07.2015.
- */
+
+
 public class Point {
     int x;
     int y;
