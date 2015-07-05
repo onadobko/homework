@@ -3,9 +3,9 @@ package ua.com.javaschool.homework.oop.lesson01.task05;
 import java.util.Scanner;
 
 /**
- * �������� ����� Circle (����) �� �������� �
- Rectangle � �����, ������� ����� ���������� ���
- �������.
+ Написать класс Circle (круг) по аналогии с
+ Rectangle и метод, который будет возвращать его
+ площадь.
  */
 public class Circle {
     public static final String NAME = "Circle";
