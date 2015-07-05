@@ -1,11 +1,11 @@
-package Lesson_1.Circ;
+package ua.com.javaschool.homework.oop.lesson01.task05;
 
 import java.util.Scanner;
 
 /**
- * Написать класс Circle (круг) по аналогии с
- Rectangle и метод, который будет возвращать его
- площадь.
+ * пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ Circle (пїЅпїЅпїЅпїЅ) пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ
+ Rectangle пїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ
+ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ.
  */
 public class Circle {
     public static final String NAME = "Circle";

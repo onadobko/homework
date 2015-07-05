@@ -1,7 +1,7 @@
-package Lesson_1.Circ;
+package ua.com.javaschool.homework.oop.lesson01.task05;
 
 /**
- * Created by Кобзар on 02.07.2015.
+ * Created by пїЅпїЅпїЅпїЅпїЅпїЅ on 02.07.2015.
  */
 public class Main {
     public static void main(String[] args) {
