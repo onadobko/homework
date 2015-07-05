@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="onadobko" />
+        <module name="vprysche" />
         <module name="ygrkoval" />
         <module name="yurbulax" />
       </profile>
