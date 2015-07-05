@@ -1,7 +1,7 @@
-package Lesson_1.Cars;
+package ua.com.javaschool.homework.oop.lesson01.task03;
 
 /**
- * Created by Кобзар on 02.07.2015.
+ * Created by пїЅпїЅпїЅпїЅпїЅпїЅ on 02.07.2015.
  */
 public class Car {
     static public int count = 0;
