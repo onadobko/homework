@@ -8,6 +8,7 @@
   <modules>
     <module>ygrkoval</module>
     <module>onadobko</module>
+    <module>vprysche</module>
   </modules>
   <packaging>pom</packaging>
 
