@@ -22,11 +22,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="onadobko" />
         <module name="ygrkoval" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="homework" target="1.5" />
+      <module name="onadobko" target="1.5" />
       <module name="ygrkoval" target="1.5" />
     </bytecodeTargetLevel>
   </component>
