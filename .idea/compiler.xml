@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="onadobko" />
+        <module name="vlkobzar" />
         <module name="vprysche" />
         <module name="ygrkoval" />
         <module name="yurbulax" />
@@ -31,6 +32,7 @@
     <bytecodeTargetLevel>
       <module name="homework" target="1.5" />
       <module name="onadobko" target="1.5" />
+      <module name="vlkobzar" target="1.5" />
       <module name="ygrkoval" target="1.5" />
       <module name="yurbulax" target="1.5" />
     </bytecodeTargetLevel>

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/homework.iml" filepath="$PROJECT_DIR$/homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/onadobko/onadobko.iml" filepath="$PROJECT_DIR$/onadobko/onadobko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vlkobzar/vlkobzar.iml" filepath="$PROJECT_DIR$/vlkobzar/vlkobzar.iml" />
       <module fileurl="file://$PROJECT_DIR$/vprysche/vprysche.iml" filepath="$PROJECT_DIR$/vprysche/vprysche.iml" />
       <module fileurl="file://$PROJECT_DIR$/ygrkoval/ygrkoval.iml" filepath="$PROJECT_DIR$/ygrkoval/ygrkoval.iml" />
       <module fileurl="file://$PROJECT_DIR$/yurbulax/yurbulax.iml" filepath="$PROJECT_DIR$/yurbulax/yurbulax.iml" />
