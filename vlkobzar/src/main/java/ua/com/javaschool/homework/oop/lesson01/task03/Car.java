@@ -1,8 +1,6 @@
 package ua.com.javaschool.homework.oop.lesson01.task03;
 
-/**
- * Created by ������ on 02.07.2015.
- */
+
 public class Car {
     static public int count = 0;
     protected String name;

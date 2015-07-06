@@ -1,8 +1,7 @@
 package ua.com.javaschool.homework.oop.lesson01.task03;
 
-/**
- * Created by ������ on 02.07.2015.
- */
+
+
 public class Engine {
     protected double mileage = 0, fuel_consumption_Ferrari = 0, fuel_consumption_BMW = 0;
     protected boolean started;
